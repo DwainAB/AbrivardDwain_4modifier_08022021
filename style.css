@@ -7,6 +7,20 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 
+/*modification*/
+.avis{
+    font-size: 1.4em;
+}
+
+.avis_client{
+    font-size: 1.2em;
+}
+
+.text-footer{
+    font-size: 1em;
+}
+/*fin dmodification*/
+
 a,
 button {
     transition: all .3s ease-in-out;
