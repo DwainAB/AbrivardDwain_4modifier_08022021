@@ -18,6 +18,7 @@ body {
 
 .text-footer{
     font-size: 1em;
+    color: white;
 }
 /*fin dmodification*/
 
@@ -664,7 +665,7 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
+    color: #575757;
 }
 
 .container {
@@ -784,21 +785,23 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #F3976C;
+    background-color: #B20101;
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: #B20101!important;
+    background-color: #FFFFFF;
+    border-radius: 10px;
 }
 
 .btn-atomic-tangerine {
-    background: #F3976C;
+    background: #B20101;
     color: #FFFFFF!important;
 }
 
 .btn-atomic-tangerine:hover {
-    background: #c27956!important;
-    color: #FFFFFF!important;
+    background: #FFFFFF!important;
+    color: #B20101!important;
 }
 
 .ltc-white {
@@ -837,6 +840,21 @@ h4 {
 .bg-presentation {
     background-image: url("img/image-de-presentation.bmp");
 }
+
+/*modification*/
+.avis{
+    font-size: 1.4em;
+}
+
+.avis_client{
+    font-size: 1.2em;
+}
+
+.text-footer{
+    font-size: 1em;
+    color: white;
+}
+/*fin dmodification*/
 
 @media (max-width: 1024px) {
     .bloc {
