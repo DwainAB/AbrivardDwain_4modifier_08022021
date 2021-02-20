@@ -19,7 +19,20 @@ body {
 .text-footer{
     font-size: 1em;
     color: white;
+} 
+
+.text-footer li{
+    color: #FFFFFF;
 }
+
+.titre-contact{
+    text-align: center;
+    font-size: 1.3em;
+    background-color: #B20101;
+    color: #FFFFFF;
+}
+
+
 /*fin dmodification*/
 
 a,
@@ -792,6 +805,7 @@ h4 {
     color: #B20101!important;
     background-color: #FFFFFF;
     border-radius: 10px;
+    
 }
 
 .btn-atomic-tangerine {
@@ -841,20 +855,6 @@ h4 {
     background-image: url("img/image-de-presentation.bmp");
 }
 
-/*modification*/
-.avis{
-    font-size: 1.4em;
-}
-
-.avis_client{
-    font-size: 1.2em;
-}
-
-.text-footer{
-    font-size: 1em;
-    color: white;
-}
-/*fin dmodification*/
 
 @media (max-width: 1024px) {
     .bloc {
